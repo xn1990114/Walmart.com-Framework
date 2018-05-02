@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51122" started-at="2018-05-02T00:52:37Z" finished-at="2018-05-02T00:53:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51122" started-at="2018-05-02T00:52:37Z" finished-at="2018-05-02T00:53:28Z">
+      <class name="test_cases.Add_Item_Test">
+        <test-method status="PASS" signature="loadConfig()[pri:0, instance:test_cases.Add_Item_Test@91161c7]" name="loadConfig" is-config="true" duration-ms="562" started-at="2018-05-01T19:52:36Z" finished-at="2018-05-01T19:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method status="PASS" signature="load_browser()[pri:0, instance:test_cases.Add_Item_Test@91161c7]" name="load_browser" is-config="true" duration-ms="8647" started-at="2018-05-01T19:52:37Z" finished-at="2018-05-01T19:52:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- load_browser -->
+        <test-method status="PASS" signature="add_item_with_sign_in(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test_cases.Add_Item_Test@91161c7]" name="add_item_with_sign_in" duration-ms="42197" started-at="2018-05-01T19:52:46Z" data-provider="add_item_data_with_signIn" finished-at="2018-05-01T19:53:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[walmart_test@hotmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nier automata]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[horizon zero dawn]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[first]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[last]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[805 Moberly ln]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[2034549876]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[asda@sdads.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[bentonville]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Arkansas]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[72716]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[6011005649246785]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[05]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[545]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_item_with_sign_in -->
+      </class> <!-- test_cases.Add_Item_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

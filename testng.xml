@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AddItemTest">
+  <test name="Regression1"   >
+    <packages>
+      <package name="test_cases" />
+   </packages>
+ </test>
+</suite>
